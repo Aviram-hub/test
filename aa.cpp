@@ -14,3 +14,5 @@ int main() {
 左边窗口修改
 dsad
 fsdf
+
+fuck kunge.
